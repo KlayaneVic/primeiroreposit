@@ -1,3 +1,5 @@
 Barco
 Aviao
 Bicicleta
+Carro
+Trem
